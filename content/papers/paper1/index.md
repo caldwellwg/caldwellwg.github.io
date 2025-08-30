@@ -1,17 +1,13 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Non-Local Phase Transitions" 
+date: 2025-05-09
+tags: ["phase transitions","gamma convergence","singular integrals"]
+author: ["Wes Caldwell"]
+description: "This thesis explores the theory of non-local phase transitions, in particular focusing on the non-linear theory 1 < p < +∞, and on interaction kernels with singularities such as those leading to Gagliardo seminorms for fractional Sobolev spaces. First, the existence and uniqueness of optimal profiles in the diffuse interface problem is established. Then, asymptotic analysis is performed via Γ-convergence to show that the diffuse interface energies converge to an anisotropic surface energy localized on the interface between the two phases. Finally, heuristic arguments for the homogenization problem are given to conjecture the limit energy for non-local phase transitions with periodic microscale variations." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
-    relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    image: "thesis.png"
+    alt: "Non-Local Phase Transitions"
+    relative: true"
 
 ---
 
@@ -19,43 +15,28 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](https://doi.org/10.1184/R1/29361008.v1)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The gradient theory of phase transitions dates back to the work of van derWaals in the late 19th century and its rediscovery by Cahn & Hilliard in the 1950s. In the intervening century, the theory has been developed and expanded into numerous directions and fields. In particular, in the late 20th century, Alberti & Bellettini considered a model for phase transitions driven by non-local rather than gradient energies. Such models arise, for instance, as continuum limits of Ising spin systems in the study of magnetic phase transitions.
 
----
-
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
+This thesis explores the theory of non-local phase transitions, in particular focusing on the non-linear theory 1 < p < +∞, and on interaction kernels with singularities such as those leading to Gagliardo seminorms for fractional Sobolev spaces. First, the existence and uniqueness of optimal profiles in the diffuse interface problem is established. Then, asymptotic analysis is performed via Γ-convergence to show that the diffuse interface energies converge to an anisotropic surface energy localized on the interface between the two phases. Finally, heuristic arguments for the homogenization problem are given to conjecture the limit energy for non-local phase transitions with periodic microscale variations.
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Caldwell, Wesley (2025). Non-Local Phase Transitions. Carnegie Mellon University. Thesis. https://doi.org/10.1184/R1/29361008.v1
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@thesis{NLPT25,
+author = {Caldwell, Wes},
+type = {Ph.D. Thesis},
+year = {2025},
+title ={Non-Local Phase Transitions},
+school = {Carnegie Mellon University},
+doi = {10.1184/R1/29361008.v1}}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
