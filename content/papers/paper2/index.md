@@ -1,6 +1,6 @@
 ---
 title: "Non-local phase transitions with singular anisotropic kernels" 
-date: 2025-3-31
+date: 2025-03-31
 tags: ["non-local energies","singular perturbations","Γ-convergence"]
 author: ["Wes Caldwell"]
 description: "In this paper, the study of a non-local Cahn–Hilliard-type singularly perturbed family of functionals is undertaken, generalizing known results by Alberti & Bellettini [Eur. J. Appl. Math. 9 (1998) 261–284]. The kernels considered include those leading to Gagliardo seminorms for fractional Sobolev spaces, as studied by Savin & Valdinoci [Ann. Inst. Henri Poincaré C, Analyse Non Linéaire 29 (2012) 479–500]. In this way, this paper can be viewed as a combination of the contributions of Alberti & Bellettini and Savin & Valdinoci. The limit energy is computed via Γ-convergence and shown to be an anisotropic surface energy on the interface between the two phases." 
