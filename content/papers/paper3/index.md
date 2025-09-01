@@ -41,9 +41,3 @@ Caldwell et al. 2018. "On the four-dimensional holoraumy of the 4D, 𝒩 = 1 com
     doi = {10.1142/S0217751X18500720}
 }
 ```
-
----
-
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
