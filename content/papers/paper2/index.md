@@ -1,17 +1,14 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Non-local phase transitions with singular anisotropic kernels" 
+date: 2025-3-31
+tags: ["non-local energies","singular perturbations","Γ-convergence"]
+author: ["Wes Caldwell"]
+description: "In this paper, the study of a non-local Cahn–Hilliard-type singularly perturbed family of functionals is undertaken, generalizing known results by Alberti & Bellettini [Eur. J. Appl. Math. 9 (1998) 261–284]. The kernels considered include those leading to Gagliardo seminorms for fractional Sobolev spaces, as studied by Savin & Valdinoci [Ann. Inst. Henri Poincaré C, Analyse Non Linéaire 29 (2012) 479–500]. In this way, this paper can be viewed as a combination of the contributions of Alberti & Bellettini and Savin & Valdinoci. The limit energy is computed via Γ-convergence and shown to be an anisotropic surface energy on the interface between the two phases." 
+summary: "In this paper, the study of a non-local Cahn–Hilliard-type singularly perturbed family of functionals is undertaken, generalizing known results by Alberti & Bellettini [Eur. J. Appl. Math. 9 (1998) 261–284]."
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "modification.png"
+    alt: "Modification Theorem"
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
 
 ---
 
@@ -19,43 +16,36 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
++ [Paper](https://doi.org/10.1051/cocv/2025017)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In this paper, the study of a non-local Cahn–Hilliard-type singularly perturbed family of functionals is undertaken, generalizing known results by Alberti & Bellettini [Eur. J. Appl. Math. 9 (1998) 261–284]. The kernels considered include those leading to Gagliardo seminorms for fractional Sobolev spaces, as studied by Savin & Valdinoci [Ann. Inst. Henri Poincaré C, Analyse Non Linéaire 29 (2012) 479–500]. In this way, this paper can be viewed as a combination of the contributions of Alberti & Bellettini and Savin & Valdinoci. The limit energy is computed via Γ-convergence and shown to be an anisotropic surface energy on the interface between the two phases.
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure: The Modification Theorem
 
-![](paper2.png)
+![](modification.png)
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Caldwell, Wes 2025. "Non-local phase transitions with singular anisotropic kernels" *ESAIM: COCV* 31 (32)
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+@article{CaldwellESAIM25,
+    author = {Wes Caldwell},
+    year = {2025},
+    title = {Non-local phase transitions with singular anisotropic kernels},
+    journal = {ESAIM: COCV},
+    volume = {31},
+    number = {32},
+    url = {https://doi.org/10.1051/cocv/2025017}
+}
 ```
-
----
-
-##### Related material
-
 + [Presentation slides](presentation2.pdf)
 + [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
