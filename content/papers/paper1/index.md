@@ -4,6 +4,7 @@ date: 2025-05-09
 tags: ["phase transitions","gamma convergence","singular integrals"]
 author: ["Wes Caldwell"]
 description: "This thesis explores the theory of non-local phase transitions, in particular focusing on the non-linear theory 1 < p < +∞, and on interaction kernels with singularities such as those leading to Gagliardo seminorms for fractional Sobolev spaces. First, the existence and uniqueness of optimal profiles in the diffuse interface problem is established. Then, asymptotic analysis is performed via Γ-convergence to show that the diffuse interface energies converge to an anisotropic surface energy localized on the interface between the two phases. Finally, heuristic arguments for the homogenization problem are given to conjecture the limit energy for non-local phase transitions with periodic microscale variations." 
+summary: "This thesis explores the theory of non-local phase transitions, in particular focusing on the non-linear theory 1 < p < +∞, and on interaction kernels with singularities such as those leading to Gagliardo seminorms for fractional Sobolev spaces."
 cover:
     image: "magnetic_phase_transition.png"
     alt: "Non-Local Phase Transitions"
