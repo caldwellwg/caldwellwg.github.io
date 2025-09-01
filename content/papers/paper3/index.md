@@ -1,17 +1,14 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "On the four-dimensional holoraumy of the 4D, 𝒩 = 1 complex linear supermultiplet" 
+date: 2018-04-30
+tags: ["quantum mechanics", "supersymmetry", "off-shell supermultiplets"]
+author: ["Wes Caldwell", "Alejandro N. Diaz", "Isaac Friend", "S. James Gates, Jr.", "Siddhartha Harmalkar", "Tamar Lambert-Brown", "Daniel Lay", "Karina Martirosova", "Victor A. Meszaros", "Mayowa Omokanwaye", "Shaina Rudman", "Daeljuck Shin", "Anthony Vershov"]
+description: "We present arguments to support the existence of weight spaces for supersymmetric field theories and identify the calculations of information about supermultiplets to define such spaces via the concept of “holoraumy.” For the first time, this is extended to the complex linear superfield by a calculation of the commutator of supercovariant derivatives on all of its component fields." 
+summary: "We present arguments to support the existence of weight spaces for supersymmetric field theories and identify the calculations of information about supermultiplets to define such spaces via the concept of “holoraumy.” For the first time, this is extended to the complex linear superfield by a calculation of the commutator of supercovariant derivatives on all of its component fields." 
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image: "adinkra.png"
+    alt: "adinkra.png"
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
 
 ---
 
@@ -19,30 +16,30 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](https://doi.org/10.1142/S0217751X18500720)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+We present arguments to support the existence of weight spaces for supersymmetric field theories and identify the calculations of information about supermultiplets to define such spaces via the concept of “holoraumy.” For the first time, this is extended to the complex linear superfield by a calculation of the commutator of supercovariant derivatives on all of its component fields.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Caldwell et al. 2018. "On the four-dimensional holoraumy of the 4D, 𝒩 = 1 complex linear supermultiplet" *International Journal of Modern Physics A* 33 (12).
 
 ```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+@article{Caldwell18
+    author = {Caldwell, Wesley and Diaz, Alejandro N. and Friend, Isaac and Gates, S. James and Harmalkar, Siddhartha and Lambert-Brown, Tamar and Lay, Daniel and Martirosova, Karina and Meszaros, Victor A. and Omokanwaye, Mayowa and Rudman, Shaina and Shin, Daeljuck and Vershov, Anthony},
+    title = {On the four-dimensional holoraumy of the 4D, 𝒩 = 1 complex linear supermultiplet},
+    journal = {International Journal of Modern Physics A},
+    volume = {33},
+    number = {12},
+    year = {2018},
+    doi = {10.1142/S0217751X18500720}
+}
 ```
 
 ---
