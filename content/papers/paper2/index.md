@@ -47,5 +47,3 @@ Caldwell, Wes 2025. "Non-local phase transitions with singular anisotropic kerne
     url = {https://doi.org/10.1051/cocv/2025017}
 }
 ```
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
