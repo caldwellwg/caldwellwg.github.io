@@ -31,7 +31,7 @@ We present arguments to support the existence of weight spaces for supersymmetri
 Caldwell et al. 2018. "On the four-dimensional holoraumy of the 4D, 𝒩 = 1 complex linear supermultiplet" *International Journal of Modern Physics A* 33 (12).
 
 ```BibTeX
-@article{Caldwell18
+@article{Caldwell18,
     author = {Caldwell, Wesley and Diaz, Alejandro N. and Friend, Isaac and Gates, S. James and Harmalkar, Siddhartha and Lambert-Brown, Tamar and Lay, Daniel and Martirosova, Karina and Meszaros, Victor A. and Omokanwaye, Mayowa and Rudman, Shaina and Shin, Daeljuck and Vershov, Anthony},
     title = {On the four-dimensional holoraumy of the 4D, 𝒩 = 1 complex linear supermultiplet},
     journal = {International Journal of Modern Physics A},
